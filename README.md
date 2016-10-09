@@ -2,6 +2,12 @@
 
 A mirror traverse for es6
 
+```
+npm i for-mirror
+```
+
+usage
+
 ```javascript
 const mirror = require('mirror');
 
