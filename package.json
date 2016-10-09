@@ -2,7 +2,6 @@
   "name": "for-mirror",
   "version": "0.0.2",
   "description": "A mirror traverse for `for loop` in es6",
-  "keyword": "mirror,for,loop",
   "main": "index.js",
   "engines": {
     "node": ">=4.0.0"
@@ -11,5 +10,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lellansin",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lellansin/node-mirror.git"
+  },
+  "keywords": [
+    "mirror",
+    "for",
+    "loop"
+  ],
+  "bugs": {
+    "url": "https://github.com/Lellansin/node-mirror/issues"
+  },
+  "homepage": "https://github.com/Lellansin/node-mirror#readme"
 }
