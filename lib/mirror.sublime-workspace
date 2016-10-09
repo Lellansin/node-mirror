@@ -1,0 +1,1718 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"arr2"
+			],
+			[
+				"for",
+				"forof\tnodejs.for-of"
+			],
+			[
+				"last",
+				"lastDay"
+			],
+			[
+				"li",
+				"limit"
+			],
+			[
+				"htt",
+				"http_referer"
+			],
+			[
+				"pro",
+				"processing"
+			],
+			[
+				"perf",
+				"performance"
+			],
+			[
+				"map",
+				"mapData"
+			],
+			[
+				"trou",
+				"trouble"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Re",
+				"RegExp"
+			],
+			[
+				"grou",
+				"groupIds"
+			],
+			[
+				"info",
+				"indexOf"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"cou",
+				"countAlarm"
+			],
+			[
+				"auth",
+				"authSource"
+			],
+			[
+				"log",
+				"log\tnodejs.log"
+			],
+			[
+				"yes",
+				"yesterday"
+			],
+			[
+				"start",
+				"timeStart"
+			],
+			[
+				"data",
+				"dateStart"
+			],
+			[
+				"qu",
+				"QUOTAS"
+			],
+			[
+				"parse",
+				"parseData"
+			],
+			[
+				"sche",
+				"scheduleJob"
+			],
+			[
+				"time",
+				"timeStart"
+			],
+			[
+				"re",
+				"received"
+			],
+			[
+				"h",
+				"half"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"par",
+				"palindromePairs"
+			],
+			[
+				"wo",
+				"wordsSize"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"str",
+				"strA"
+			],
+			[
+				"pa",
+				"palindromePairs"
+			],
+			[
+				"num",
+				"nums1"
+			],
+			[
+				"nums",
+				"nums2"
+			],
+			[
+				"key",
+				"key0"
+			],
+			[
+				"mi",
+				"minutes"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"so",
+				"sorted"
+			],
+			[
+				"sor",
+				"sortTimeReport"
+			],
+			[
+				"da",
+				"day"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"req",
+				"require\tnodejs.require"
+			],
+			[
+				"plu",
+				"PluginSchema"
+			],
+			[
+				"pug",
+				"pluginSchema"
+			],
+			[
+				"tu",
+				"tunnels"
+			],
+			[
+				"get",
+				"getReport"
+			],
+			[
+				"error",
+				"ERROR_WHITELIST"
+			],
+			[
+				"err",
+				"errorCount"
+			],
+			[
+				"monit",
+				"Monitor"
+			],
+			[
+				"getC",
+				"getCondAll"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"find",
+				"findAll"
+			],
+			[
+				"RE",
+				"Realtime"
+			],
+			[
+				"ge",
+				"generator"
+			],
+			[
+				"ste",
+				"step4"
+			],
+			[
+				"las",
+				"lastEnd"
+			],
+			[
+				"index",
+				"indexEnd"
+			],
+			[
+				"spli",
+				"split"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"inde",
+				"indexStart"
+			],
+			[
+				"end",
+				"indexEnd"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"cu",
+				"currentValue"
+			],
+			[
+				"cons",
+				"console\tcout-simple"
+			],
+			[
+				"que",
+				"sQuery"
+			],
+			[
+				"no",
+				"nlohmann"
+			],
+			[
+				"ia",
+				"iAfter"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"val",
+				"val2"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"Td",
+				"td"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"src",
+				"srcDir"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"sr",
+				"srcDir"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"des",
+				"destDir"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"dco",
+				"decorators"
+			],
+			[
+				"dec",
+				"decorators"
+			],
+			[
+				"deco",
+				"decoFlag"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"FUN",
+				"FUNC"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Lellansin/Documents/github/every/index.js",
+			"settings":
+			{
+				"buffer_size": 40,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "index.js"
+			}
+		},
+		{
+			"file": "/Users/Lellansin/Documents/github/every/README.md",
+			"settings":
+			{
+				"buffer_size": 238,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "README.md"
+			}
+		},
+		{
+			"file": "mirror.js",
+			"settings":
+			{
+				"buffer_size": 450,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Lellansin/Documents/github/every/tests/test.js",
+			"settings":
+			{
+				"buffer_size": 172,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "test.js"
+			}
+		},
+		{
+			"file": "/Users/Lellansin/Documents/github/every/tests/json.js",
+			"settings":
+			{
+				"buffer_size": 295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "json.js"
+			}
+		},
+		{
+			"file": "/Users/Lellansin/Documents/github/every/package.json",
+			"settings":
+			{
+				"buffer_size": 252,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/babel-node.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Node.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "javas",
+		"selected_items":
+		[
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Lellansin/Documents/github/every",
+		"/Users/Lellansin/Documents/github/every/lib"
+	],
+	"file_history":
+	[
+		"/Users/Lellansin/Documents/github/httpizza/lib/syslog.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/perfDailyAnalyse/index.js",
+		"/Users/Lellansin/Documents/github/god-api/src/models/path.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/reports/perf.js",
+		"/Users/Lellansin/Documents/github/god-api/src/models/index.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/phantom.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/path.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/performance.js",
+		"/Users/Lellansin/Documents/github/god-api/src/middlewares/auth.js",
+		"/Users/Lellansin/Documents/github/god-api/config/default.json.etpl",
+		"/Users/Lellansin/Documents/github/god-api/src/app.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/sso.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/user.js",
+		"/Users/Lellansin/Documents/github/god-api/config/default.json",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/perf.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/site.js",
+		"/Users/Lellansin/Documents/github/god-api/src/models/site.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/alarm.js",
+		"/Users/Lellansin/Documents/github/god-api/.gitignore",
+		"/Users/Lellansin/Documents/github/god-api/src/models/trouble.js",
+		"/Users/Lellansin/Documents/github/god-api/test/index.js",
+		"/Users/Lellansin/Documents/github/god-api/perf.api_build.yml",
+		"/Users/Lellansin/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/ff60584225d3a0e68c35c49b3b656733/Message/MessageTemp/41e0471c3a81edca5a32fbe3be4bb5a3/File/God新上墙图介绍/God新上墙图介绍.md",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/analy.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/index.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/error.js",
+		"/Users/Lellansin/Documents/github/god-api/src/middlewares/login.js",
+		"/Users/Lellansin/Documents/github/god-api/src/models/user.js",
+		"/Users/Lellansin/Documents/github/god-api/src/templates/wall.ejs",
+		"/Users/Lellansin/Documents/github/god-api/src/templates/wall2.ejs",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/trouble.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/wall.js",
+		"/Users/Lellansin/Documents/github/god-api/appspec.yml",
+		"/Users/Lellansin/Documents/github/god-api/config/reserved.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/reports/devices.js",
+		"/Users/Lellansin/Documents/github/god-api/src/services/index.js",
+		"/Users/Lellansin/Documents/github/god-api/src/utils/utils.js",
+		"/Users/Lellansin/Documents/github/god-api/src/models/alarm.js",
+		"/Users/Lellansin/Downloads/lin.txt",
+		"/Users/Lellansin/Documents/github/god-api/src/services/error.js",
+		"/Users/Lellansin/Documents/github/god-api/src/services/email.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/dashboard.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/reports/error.js",
+		"/Users/Lellansin/Documents/github/god-api/perf.api.ini",
+		"/Users/Lellansin/Documents/github/god-api/src/templates/siteReport.ejs",
+		"/Users/Lellansin/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/ff60584225d3a0e68c35c49b3b656733/Message/MessageTemp/41e0471c3a81edca5a32fbe3be4bb5a3/File/god-email/views/index.ejs",
+		"/Users/Lellansin/Documents/github/god-api/src/models/perf.js",
+		"/Users/Lellansin/Documents/github/god-api/src/models/error.js",
+		"/Users/Lellansin/Documents/github/god-api/src/services/subscribe.js",
+		"/Users/Lellansin/Documents/github/goddess/src/pages/help/docs/quickstart.md",
+		"/Users/Lellansin/Documents/github/goddess/src/pages/help/docs/home.md",
+		"/Users/Lellansin/Documents/github/god-api/process/perfDevice.json",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/stastic/performance.js",
+		"/Users/Lellansin/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/ff60584225d3a0e68c35c49b3b656733/Message/MessageTemp/41e0471c3a81edca5a32fbe3be4bb5a3/File/god-email/public/style.css",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/monitor.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/cn-map.js",
+		"/Users/Lellansin/Documents/github/god-api/src/services/monitor.js",
+		"/Users/Lellansin/Documents/github/god-api/src/services/sso.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/troubleUpdate/collect.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/troubleUpdate/script2.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/analy-path.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/subscribe.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/troubleUpdate/update.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/task/troubleFlush.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/task/troubleListFlush.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/troubleUpdate/script3.js",
+		"/Users/Lellansin/Documents/github/god-api/src/perf.js",
+		"/Users/Lellansin/Documents/github/god-api/src/models/host.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/host.js",
+		"/Users/Lellansin/Documents/github/god-api/test/models/filter.js",
+		"/Users/Lellansin/Documents/github/god-api/src/models/filter.js",
+		"/Users/Lellansin/Documents/github/god-api/src/apis/filter.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/site/script.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/perfDailyAnalyse/getAnalysis.js",
+		"/Users/Lellansin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Lellansin/Documents/github/god-api/node_modules/mongoose/lib/model.js",
+		"/Users/Lellansin/Documents/github/god-api/src/templates/subscribe.ejs",
+		"/Users/Lellansin/Documents/github/god-api/src/templates/perf.ejs",
+		"/Users/Lellansin/Documents/github/god-api/src/templates/monitoredErrReport.ejs",
+		"/Users/Lellansin/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/Default (OSX).sublime-keymap",
+		"/Users/Lellansin/Documents/github/god-api/src/services/perf.js",
+		"/Users/Lellansin/Documents/github/god-api/process/perf.json",
+		"/Users/Lellansin/Documents/github/god-api/config/prod.json",
+		"/Users/Lellansin/Documents/github/god-api/node_modules/muri/index.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/errorAnalysis/errorAggregate.js",
+		"/Users/Lellansin/Documents/github/goddess/src/pages/help/docs/error.md",
+		"/Users/Lellansin/Documents/github/god-api/process/latestError.json",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/errorAnalysis/getAnalysis.js",
+		"/Users/Lellansin/Documents/github/god-api/process/latestDevice.json",
+		"/Users/Lellansin/Documents/github/god-api/process/latestDevice.js",
+		"/Users/Lellansin/Documents/github/god-api/process/latestError.js",
+		"/Users/Lellansin/Documents/github/god-api/src/services/mark.js",
+		"/Users/Lellansin/Documents/github/god-api/src/services/sms.js",
+		"/Users/Lellansin/Documents/github/god-api/node_modules/lodash/internal/escapeRegExpChar.js",
+		"/Users/Lellansin/Documents/github/god-api/test/src/apis/user.js",
+		"/Users/Lellansin/Documents/github/god-api/node_modules/glob/test/mark.js",
+		"/Users/Lellansin/Documents/github/goddess/src/pages/help/docs/sdk.md",
+		"/Users/Lellansin/Documents/github/goddess/src/pages/help/docs/perf.md",
+		"/Users/Lellansin/Documents/github/goddess/src/pages/help/nav.config.json",
+		"/Users/Lellansin/Documents/github/goddess/src/pages/help/docs/error.js",
+		"/Users/Lellansin/Documents/github/goddess/README.md",
+		"/Users/Lellansin/Documents/github/god-api/process/siteUpdate.json",
+		"/Users/Lellansin/Documents/github/god-api/node_modules/mongoose/lib/error/strict.js",
+		"/Users/Lellansin/Documents/github/god-api/package.json",
+		"/Users/Lellansin/Documents/github/god-api/test/services/sso.js",
+		"/Users/Lellansin/Documents/github/god-api/test/middlewares/auth.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/siteUpdate/script.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/troubleUpdate/script.js",
+		"/Users/Lellansin/Documents/github/god-api/src/tools/task/screenshot.js",
+		"/Users/Lellansin/Library/Application Support/Sublime Text 3/Packages/JsFormat/Default (OSX).sublime-keymap",
+		"/Users/Lellansin/Documents/tools/sublime/untitled.sublime-project",
+		"/Users/Lellansin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Lellansin/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/Lellansin/Documents/github/god-api/Makefile",
+		"/Users/Lellansin/Documents/github/dust/node/array/merge.js",
+		"/Users/Lellansin/Documents/github/god-api/apidoc.json",
+		"/Users/Lellansin/Documents/github/dust/python/numpy/init.py",
+		"/Users/Lellansin/Documents/github/dust/javascript/angular/todo/todo.js",
+		"/Users/Lellansin/Documents/github/dust/javascript/angular/todo/todo.css",
+		"/Users/Lellansin/Documents/github/dust/javascript/angular/test.html",
+		"/Users/Lellansin/Documents/github/dust/javascript/angular/todo/index.html",
+		"/Users/Lellansin/Documents/github/god-output/src/dbs/mongodb.js",
+		"/Users/Lellansin/Documents/github/god-filter/plugins/count-path.js",
+		"/Users/Lellansin/Documents/github/god-output/config/production.json",
+		"/Users/Lellansin/Documents/github/dust/node/modules/echars/d1.js",
+		"/Users/Lellansin/Documents/github/dust/node/modules/echars/d2.js",
+		"/Users/Lellansin/Downloads/2527417.txt",
+		"/Users/Lellansin/Documents/github/god-api/src/templates/error.ejs"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Lellansin/Documents/github/httpizza/",
+			"/Users/Lellansin/Documents/github/httpizza/lib",
+			"",
+			"/Users/Lellansin/Documents/github/god-api/src",
+			"/Users/Lellansin/Documents/github/god-api/",
+			"/Users/Lellansin/Documents/github/god-api/src",
+			"/Users/Lellansin/Documents/github/god-api/",
+			"/Users/Lellansin/Documents/github/god-api/src",
+			"/Users/Lellansin/Documents/github/god-api/",
+			"/Users/Lellansin/Documents/github/god-api/src/",
+			"/Users/Lellansin/Documents/github/god-api/src/tools",
+			"/Users/Lellansin/Documents/github/god-api/src/apis",
+			"/Users/Lellansin/Documents/github/god-api/src/",
+			"/Users/Lellansin/Documents/github/god-api/src/,/Users/Lellansin/Documents/github/god-api/tools",
+			"/Users/Lellansin/Documents/github/god-api/src/",
+			"/Users/Lellansin/Documents/github/god-api/src/apis",
+			"/Users/Lellansin/Documents/github/god-api/src/",
+			"/Users/Lellansin/Documents/github/god-api/src/apis",
+			"/Users/Lellansin/Documents/github/god-api/",
+			"/Users/Lellansin/Documents/github/god-api/src",
+			"/Users/Lellansin/Documents/github/god-filter",
+			"/Users/Lellansin/Documents/github/god-api/src",
+			"/Users/Lellansin/Documents/github/dust/node",
+			"/Users/Lellansin/Documents/github/god-api/src",
+			"/Users/Lellansin/Documents/github/god-api",
+			"/Users/Lellansin/Documents/github/god-filter",
+			"/Users/Lellansin/Documents/github/god-filter/plugins",
+			"/Users/Lellansin/Documents/github/str-parser/lib",
+			"/Users/Lellansin/Documents/github/str-parser/test",
+			"/Users/Lellansin/Documents/github/god-filter",
+			"/Users/Lellansin/Documents/github/god-filter/plugins",
+			"/Users/Lellansin/Documents/github/god-filter",
+			"/Users/Lellansin/Documents/github/dust/node",
+			"/Users/Lellansin/Documents/github/node",
+			"/Users/Lellansin/Documents/github/dust/node/modules/thunk-disque/node_modules/thunk-disque",
+			"/Users/Lellansin/Documents/github/dust/node/modules/thunk-disque/node_modules/thunk-disque/lib",
+			"/Users/Lellansin/Documents/github/node-doc4js/tests/apis",
+			"/Users/Lellansin/Documents/github/koa/lib",
+			"/Users/Lellansin/Documents/github/perf-web-server/src/",
+			"/Users/Lellansin/Documents/github/perf-web-server/src/apis",
+			"/Users/Lellansin/Documents/github/perf-web-server/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"10",
+			", c",
+			"arr3",
+			"key",
+			"age",
+			"values",
+			"arr",
+			"args",
+			"every",
+			"module",
+			"args",
+			"timing",
+			"lib/stats'",
+			"web",
+			"timing",
+			"httpizza",
+			"timing",
+			"stats",
+			"timing",
+			"increment",
+			"v",
+			"increment",
+			"timing",
+			"node-statsd",
+			"statsd",
+			"query.perf.lookup",
+			"latest|perf",
+			"|perf",
+			"laste|perf",
+			"KEY",
+			"deal",
+			"job",
+			"pathModel",
+			"dailyReport",
+			"gte",
+			"gt",
+			"pageLoaded",
+			"QUOTAS_FILTER",
+			"`perf|",
+			"PerfDaily",
+			"perfDaily",
+			"   \n",
+			"    \n",
+			"count",
+			"item",
+			"eve",
+			"count",
+			"eve",
+			"res.eve.",
+			"pageLoad",
+			"res.pageLoad.",
+			"pageLoad",
+			"day2",
+			"res.day2.",
+			"day",
+			"res.day.",
+			"res.day",
+			"res",
+			"dataMap",
+			"statisticDay",
+			"/v2/perf/statisticDay",
+			"mogen-report-api-split",
+			"dailyReport",
+			"指定站点",
+			"statistic",
+			"os",
+			"refererDay",
+			"dailyPathReport",
+			"exports",
+			"perf",
+			"mongoPerfDaily",
+			"getRangeMinutes",
+			"getHostData",
+			"getCityData",
+			"getDetail",
+			"os",
+			"QUOTAS",
+			"RESERVED",
+			"dailly",
+			"\t",
+			"perfDailyReport",
+			"PerfDaily",
+			"perfDailyReport",
+			"mongoPerfDaily",
+			"apps",
+			"recode",
+			"email",
+			"ssouat",
+			"email",
+			"_user",
+			"GOD",
+			"getReferer",
+			"post",
+			"body",
+			"alarm",
+			"update",
+			"site",
+			": {",
+			"report",
+			"alarm",
+			"limit",
+			"第几页",
+			"page",
+			"String",
+			"Number",
+			"page",
+			"mongodb",
+			"甩掉大量报错的锅",
+			"如何把站点排名往下降",
+			"这个排行是鱼老板用来找锅的",
+			"如果想赶紧甩锅的",
+			"getRate",
+			"co",
+			"host",
+			"createdAt",
+			"rate",
+			"rates",
+			"getDayStart",
+			"lastDay",
+			"latest",
+			"day",
+			"db",
+			"day",
+			"db",
+			"lastDay",
+			"createdAt",
+			"count",
+			"db"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"perf\n",
+			"path",
+			"trouble",
+			"count"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Lellansin/Documents/github/every/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Lellansin/Documents/github/every/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"auto_name": "README.md",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mirror.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Lellansin/Documents/github/every/tests/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"auto_name": "test.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Lellansin/Documents/github/every/tests/json.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"auto_name": "json.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Lellansin/Documents/github/every/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 269.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "mirror.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"performance",
+				"god-api/src/tools/stastic/performance.js"
+			],
+			[
+				"perf.js",
+				"god-api/src/tools/reports/perf.js"
+			],
+			[
+				"path.js",
+				"god-api/src/models/path.js"
+			],
+			[
+				"perfm",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"reserved.js",
+				"god-api/config/reserved.js"
+			],
+			[
+				"perfoma",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"apis/index.js",
+				"god-api/src/apis/index.js"
+			],
+			[
+				"perfdaily",
+				"god-api/src/models/perfDaily.js"
+			],
+			[
+				"perf.ejs",
+				"god-api/src/templates/perf.ejs"
+			],
+			[
+				"perfomance.js",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"user.js",
+				"god-api/src/apis/user.js"
+			],
+			[
+				"sso.js",
+				"god-api/src/apis/sso.js"
+			],
+			[
+				"auth.js",
+				"god-api/src/middlewares/auth.js"
+			],
+			[
+				"app.js",
+				"god-api/src/app.js"
+			],
+			[
+				"trouble.js",
+				"god-api/src/apis/trouble.js"
+			],
+			[
+				"perfo",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"etpl",
+				"god-api/config/default.json.etpl"
+			],
+			[
+				"tools/",
+				"god-api/src/tools/phantom.js"
+			],
+			[
+				"alarm.js",
+				"god-api/src/apis/alarm.js"
+			],
+			[
+				"site.js",
+				"god-api/src/models/site.js"
+			],
+			[
+				"site",
+				"god-api/src/apis/site.js"
+			],
+			[
+				"perfma",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"def",
+				"god-api/config/default.json"
+			],
+			[
+				"perfme",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"config.json",
+				"god-api/config/default.json.etpl"
+			],
+			[
+				"index.js",
+				"god-api/test/index.js"
+			],
+			[
+				"error.js",
+				"god-api/src/apis/error.js"
+			],
+			[
+				"analy.js",
+				"god-api/src/apis/analy.js"
+			],
+			[
+				"de",
+				"god-api/config/default.json"
+			],
+			[
+				"user",
+				"god-api/src/apis/user.js"
+			],
+			[
+				"login.js",
+				"god-api/src/middlewares/login.js"
+			],
+			[
+				"al",
+				"god-api/src/apis/alarm.js"
+			],
+			[
+				"apis/index",
+				"god-api/src/apis/index.js"
+			],
+			[
+				"trouble",
+				"god-api/src/models/trouble.js"
+			],
+			[
+				"",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"error",
+				"god-api/src/apis/error.js"
+			],
+			[
+				"per",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"reser",
+				"god-api/config/reserved.js"
+			],
+			[
+				"wall.ejs",
+				"god-api/src/templates/wall.ejs"
+			],
+			[
+				"wall.js",
+				"god-api/src/apis/wall.js"
+			],
+			[
+				"performance.js",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"services/in",
+				"god-api/src/services/index.js"
+			],
+			[
+				"services",
+				"god-api/src/tools/reports/devices.js"
+			],
+			[
+				"utils",
+				"god-api/src/utils/utils.js"
+			],
+			[
+				"utils.js",
+				"god-api/src/utils/utils.js"
+			],
+			[
+				"default.json",
+				"god-api/config/default.json"
+			],
+			[
+				"emai",
+				"god-api/src/services/email.js"
+			],
+			[
+				"performac",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"defaul",
+				"god-api/config/default.json.etpl"
+			],
+			[
+				".yml",
+				"god-api/appspec.yml"
+			],
+			[
+				".ini",
+				"god-api/perf.api.ini"
+			],
+			[
+				"report/perf.js",
+				"god-api/src/tools/reports/perf.js"
+			],
+			[
+				"performace",
+				"src/apis/performance.js"
+			],
+			[
+				"cn-map",
+				"src/tools/cn-map.js"
+			],
+			[
+				"monitor.js",
+				"src/services/monitor.js"
+			],
+			[
+				"index",
+				"src/apis/index.js"
+			],
+			[
+				"script2.js",
+				"god-api/src/tools/troubleUpdate/script2.js"
+			],
+			[
+				"host",
+				"god-api/src/models/host.js"
+			],
+			[
+				"host.js",
+				"god-api/src/apis/host.js"
+			],
+			[
+				"filter",
+				"god-api/test/models/filter.js"
+			],
+			[
+				"script3",
+				"god-api/src/tools/troubleUpdate/script3.js"
+			],
+			[
+				"model/inde",
+				"god-api/src/models/index.js"
+			],
+			[
+				"troubleflush",
+				"god-api/src/tools/task/troubleFlush.js"
+			],
+			[
+				"models/index",
+				"god-api/src/models/index.js"
+			],
+			[
+				"model.js",
+				"god-api/node_modules/mongoose/lib/model.js"
+			],
+			[
+				"analy",
+				"god-api/src/tools/errorAnalysis/getAnalysis.js"
+			],
+			[
+				"getanalysis.js",
+				"god-api/src/tools/perfDailyAnalyse/getAnalysis.js"
+			],
+			[
+				"paht.js",
+				"god-api/src/models/path.js"
+			],
+			[
+				"models/index.js",
+				"god-api/src/models/index.js"
+			],
+			[
+				"model",
+				"god-api/node_modules/mongoose/lib/model.js"
+			],
+			[
+				"devic",
+				"god-api/src/tools/reports/devices.js"
+			],
+			[
+				"devices.js",
+				"god-api/src/tools/reports/devices.js"
+			],
+			[
+				"performa",
+				"god-api/src/apis/performance.js"
+			],
+			[
+				"prod.json",
+				"god-api/config/prod.json"
+			],
+			[
+				"model/path.js",
+				"god-api/src/models/path.js"
+			],
+			[
+				"api/index.js",
+				"god-api/node_modules/muri/index.js"
+			],
+			[
+				"model/error.js",
+				"god-api/src/models/error.js"
+			],
+			[
+				"reserv",
+				"god-api/config/reserved.js"
+			],
+			[
+				"er",
+				"god-api/node_modules/lodash/internal/escapeRegExpChar.js"
+			],
+			[
+				"reserved",
+				"god-api/config/reserved.js"
+			],
+			[
+				"mark",
+				"god-api/node_modules/glob/test/mark.js"
+			],
+			[
+				"model/index",
+				"god-api/src/models/index.js"
+			],
+			[
+				"erroraggregate",
+				"god-api/src/tools/errorAnalysis/errorAggregate.js"
+			],
+			[
+				"getanalysis",
+				"god-api/src/tools/errorAnalysis/getAnalysis.js"
+			],
+			[
+				"strict",
+				"node_modules/mongoose/lib/error/strict.js"
+			],
+			[
+				"user.s",
+				"src/apis/user.js"
+			],
+			[
+				"script",
+				"src/tools/site/script.js"
+			],
+			[
+				"script2",
+				"src/tools/troubleUpdate/script2.js"
+			],
+			[
+				"dashboard",
+				"src/apis/dashboard.js"
+			],
+			[
+				"service/error",
+				"src/services/error.js"
+			],
+			[
+				"subscribe",
+				"god-api/src/services/subscribe.js"
+			],
+			[
+				"src/templates/error.ejs",
+				"god-api/src/templates/error.ejs"
+			],
+			[
+				"transformerrformat",
+				"god-api/src/utils/transformErrFormat.js"
+			],
+			[
+				"error.ejs",
+				"god-api/src/templates/error.ejs"
+			],
+			[
+				"sub.ejs",
+				"god-api/src/templates/subscribe.ejs"
+			],
+			[
+				"test.js",
+				"docTest/test.js"
+			],
+			[
+				"utils/util.js",
+				"god-api/src/utils/utils.js"
+			],
+			[
+				"api/utils/util.js",
+				"god-api/src/utils/utils.js"
+			],
+			[
+				"node_modules/ioredis/package.json",
+				"dust/node/node_modules/ioredis/package.json"
+			],
+			[
+				"model/filter",
+				"god-api/src/models/filter.js"
+			],
+			[
+				"realtime.js",
+				"god-filter/components/realtime.js"
+			],
+			[
+				"god-filter",
+				"god-filter/README.md"
+			],
+			[
+				"grid.js",
+				"node-time-grid/lib/grid.js"
+			],
+			[
+				"time-grid",
+				"node-time-grid/lib/time-grid.js"
+			],
+			[
+				"package.json",
+				"str-parser/package.json"
+			],
+			[
+				"t3.js",
+				"dust/node/t3.js"
+			],
+			[
+				"t2.js",
+				"dust/node/t2.js"
+			],
+			[
+				"t1.js",
+				"dust/node/t1.js"
+			],
+			[
+				"curl",
+				"dust/node/functions/curl.js"
+			],
+			[
+				"astsource.js",
+				"docTest/node_modules/ast-source/src/ASTSource.js"
+			],
+			[
+				"composition/package.json",
+				"dust/node/modules/composition/package.json"
+			],
+			[
+				"application",
+				"lib/application.js"
+			],
+			[
+				"config/default",
+				"perf-web-server/config/default.json"
+			],
+			[
+				"c1.js.babel.js",
+				"babel/src/c1.js.babel.js"
+			],
+			[
+				"decorators/route.js",
+				"perf-web-server/src/services/decorators/router.js"
+			],
+			[
+				"app",
+				"perf-web-server/src/app.js"
+			],
+			[
+				"require",
+				"perf-web-server/src/services/decorators/required.js"
+			],
+			[
+				"required.js",
+				"perf-web-server/src/services/decorators/required.js"
+			],
+			[
+				"router.js",
+				"perf-web-server/src/services/decorators/router.js"
+			],
+			[
+				"decorators/",
+				"perf-web-server/src/services/decorators/index.js"
+			],
+			[
+				"logger",
+				"perf-web-server/src/middlewares/logger.js"
+			],
+			[
+				"format-query",
+				"perf-web-server/test/src/middlewares/format-query.js"
+			],
+			[
+				"formatquery.js",
+				"perf-web-server/src/middlewares/format-query.js"
+			],
+			[
+				"logger.js",
+				"perf-web-server/src/middlewares/logger.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "godc",
+		"selected_items":
+		[
+			[
+				"godc",
+				"~/Documents/tools/sublime/god-collector.sublime-project"
+			],
+			[
+				"dustjs",
+				"~/Documents/tools/sublime/dust.sublime-project"
+			],
+			[
+				"dust",
+				"~/Documents/tools/sublime/dust.sublime-project"
+			],
+			[
+				"filter",
+				"~/Documents/tools/sublime/god-filter.sublime-project"
+			],
+			[
+				"cron",
+				"~/Documents/tools/sublime/god-cron.sublime-project"
+			],
+			[
+				"godss",
+				"~/Documents/tools/sublime/goddess.sublime-project"
+			],
+			[
+				"goddess",
+				"~/Documents/tools/sublime/goddess.sublime-project"
+			],
+			[
+				"scanf",
+				"~/Documents/tools/sublime/node-scanf.sublime-project"
+			],
+			[
+				"output",
+				"~/Documents/tools/sublime/god-output.sublime-project"
+			],
+			[
+				"godco",
+				"~/Documents/tools/sublime/god-collector.sublime-project"
+			],
+			[
+				"god",
+				"~/Documents/tools/sublime/god.sublime-workspace"
+			],
+			[
+				"",
+				"~/Documents/tools/sublime/god-api.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 663.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
