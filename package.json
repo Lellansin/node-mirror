@@ -1,7 +1,8 @@
 {
   "name": "for-mirror",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "A mirror traverse for `for loop` in es6",
+  "keyword": "mirror,for,loop",
   "main": "index.js",
   "engines": {
     "node": ">=4.0.0"
